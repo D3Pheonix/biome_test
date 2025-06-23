@@ -1,4 +1,4 @@
-# Reproduction for Biome.js Vite Config Comment Duplication Bug
+# Reproduction for Biome v2.0.4 Vite Config Comment Duplication Bug
 
 This repository demonstrates an issue where Biome.js duplicates a top-line comment in `vite.config.js` when sorting imports with `:BLANK_LINE:`.
 
